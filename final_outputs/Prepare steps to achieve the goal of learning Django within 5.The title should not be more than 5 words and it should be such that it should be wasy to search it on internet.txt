@@ -1,0 +1,5 @@
+Django Fundamentals: Introduction and Setup
+Django Models and Database Interactions
+Django Views and URL Routing
+Django Templates and Dynamic Content
+Building a Simple Django Project

@@ -1,0 +1,6 @@
+Introduction to Deep Learning
+Neural Networks: Building Blocks
+Understanding Activation Functions
+Backpropagation: Learning from Errors
+Convolutional Neural Networks: Image Recognition
+Deep Learning Project: Image Classification

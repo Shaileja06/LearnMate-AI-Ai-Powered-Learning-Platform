@@ -1,0 +1,7 @@
+Introduction to Deep Learning
+Neural Networks: Building Blocks
+Feedforward Neural Networks
+Backpropagation and Gradient Descent
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Project: Image Classification with CNNs

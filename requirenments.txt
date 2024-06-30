@@ -1,0 +1,16 @@
+langchain 
+google-search-results
+langchain-google-genai
+langchain_groq
+youtube_search
+langchain-community
+tavily-python
+crewai 
+crewai_tools
+langchain-core
+youtube-transcript-api
+python-dotenv
+streamlit
+langchain-text-splitters
+tiktoken
+faiss-cpu

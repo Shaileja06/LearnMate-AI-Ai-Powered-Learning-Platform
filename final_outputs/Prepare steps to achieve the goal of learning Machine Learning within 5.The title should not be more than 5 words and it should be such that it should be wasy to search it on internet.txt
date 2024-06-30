@@ -1,0 +1,5 @@
+Introduction to Machine Learning
+Supervised Learning: Linear Regression
+Supervised Learning: Logistic Regression
+Unsupervised Learning: Clustering
+Project: Build a Simple Machine Learning Model

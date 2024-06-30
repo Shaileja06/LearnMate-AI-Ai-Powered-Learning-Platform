@@ -1,0 +1,5 @@
+Introduction to Deep Learning
+Neural Networks: Building Blocks
+Supervised Learning: Regression & Classification
+Unsupervised Learning: Clustering & Dimensionality Reduction
+Deep Learning Project: Image Classification

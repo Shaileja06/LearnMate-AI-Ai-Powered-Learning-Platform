@@ -1,0 +1,6 @@
+Introduction to Deep Learning
+Neural Networks: Building Blocks
+Multilayer Perceptrons and Backpropagation
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs) and LSTMs
+Deep Learning Project: Image Classification
