@@ -1,6 +1,8 @@
 ,Title,blog_url,youtube_url
-0,Introduction to Deep Learning,https://www.dataquest.io/blog/tutorial-introduction-to-deep-learning/,https://www.youtube.com/watch?v=aircAruvnKk
-1,Neural Networks: Foundations,https://blog.synapticlabs.ai/the-fascinating-world-of-neural-networks-unraveling-how-machines-learn,https://www.youtube.com/watch?v=aircAruvnKk
-2,Deep Learning Architectures,https://medium.com/@koyelac/a-general-roadmap-to-crafting-deep-learning-architecture-c6ab1f88c343,https://www.youtube.com/watch?v=SZorAJ4I-sA
-3,Training Deep Learning Models,https://epochai.org/blog/estimating-training-compute,https://www.youtube.com/watch?v=0JEb7knenps
-4,Deep Learning Project: Image Classification,https://github.com/On-Power-Studio/Image-classification-with-Deep-Learning-using-CNN-,https://www.youtube.com/watch?v=il8dMDlXrIE
+0,Introduction to Machine Learning,https://www.analyticsvidhya.com/blog/2021/02/introduction-to-machine-learning-for-absolute-beginners/,https://www.youtube.com/watch?v=FIpbrnbVfJk
+1,Supervised Learning: Regression,https://medium.com/the-quant-journey/supervised-machine-learning-regression-and-classification-decision-trees-2a8544b15a7b,https://www.youtube.com/watch?v=4b4MUYve_U8
+2,Supervised Learning: Classification,https://blog.dennisokeeffe.com/blog/2021-08-14-first-look-at-supervised-learning-with-classification,https://www.youtube.com/watch?v=eg8DJYwdMyg
+3,Unsupervised Learning: Clustering,https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a,https://www.youtube.com/watch?v=esmzYhuFnds
+4,Unsupervised Learning: Dimensionality Reduction,https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757,https://www.youtube.com/watch?v=uZTHYRM2SDc
+5,Reinforcement Learning,https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2,https://www.youtube.com/watch?v=nIgIv4IfJ6s
+6,Machine Learning Project: Predicting House Prices,https://github.com/sakethyalamanchili/House-Price-Prediction,https://www.youtube.com/watch?v=vlBZ50P_UpE

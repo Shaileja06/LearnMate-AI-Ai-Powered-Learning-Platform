@@ -1,5 +1,5 @@
 Introduction to Deep Learning
-Neural Networks: Foundations
-Deep Learning Architectures
-Training Deep Learning Models
-Deep Learning Project: Image Classification
+Neural Networks: Building Blocks
+Backpropagation: Learning the Weights
+Convolutional Neural Networks: Image Recognition
+Recurrent Neural Networks: Sequential Data

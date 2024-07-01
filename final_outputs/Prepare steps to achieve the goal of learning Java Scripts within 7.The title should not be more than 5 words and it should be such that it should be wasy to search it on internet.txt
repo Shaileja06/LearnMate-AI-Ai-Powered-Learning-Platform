@@ -1,0 +1,7 @@
+JavaScript Fundamentals: Variables, Data Types, Operators
+Control Flow: Conditional Statements, Loops
+Functions: Defining and Using Functions
+Arrays and Objects: Data Structures in JavaScript
+DOM Manipulation: Interacting with HTML Elements
+Events and Event Handling: Responding to User Actions
+Project: Simple Web Application using JavaScript

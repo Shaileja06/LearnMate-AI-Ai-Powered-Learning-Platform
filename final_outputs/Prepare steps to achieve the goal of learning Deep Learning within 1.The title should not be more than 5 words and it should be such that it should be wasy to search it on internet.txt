@@ -1,0 +1,15 @@
+Introduction to Deep Learning
+Neural Networks: Foundations
+Linear Regression with Neural Networks
+Logistic Regression and Classification
+Multilayer Perceptrons (MLPs)
+Backpropagation Algorithm
+Convolutional Neural Networks (CNNs) for Image Recognition
+Recurrent Neural Networks (RNNs) for Sequential Data
+Long Short-Term Memory (LSTM) Networks
+Autoencoders for Dimensionality Reduction
+Generative Adversarial Networks (GANs)
+Reinforcement Learning Fundamentals
+Deep Learning Frameworks: TensorFlow/PyTorch
+Building a Simple Deep Learning Model
+Project: Image Classification with CNNs

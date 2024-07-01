@@ -1,0 +1,6 @@
+Introduction to Deep Learning
+Neural Networks: The Building Blocks
+Feedforward Neural Networks & Backpropagation
+Convolutional Neural Networks (CNNs) for Image Recognition
+Recurrent Neural Networks (RNNs) for Sequential Data
+Deep Learning Project: Image Classification

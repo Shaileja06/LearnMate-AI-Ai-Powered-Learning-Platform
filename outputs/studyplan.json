@@ -1,9 +1,11 @@
 ```json
 {
-  "Day 1": "Introduction to Deep Learning",
-  "Day 2": "Neural Networks: Foundations",
-  "Day 3": "Deep Learning Architectures",
-  "Day 4": "Training Deep Learning Models",
-  "Day 5": "Deep Learning Project: Image Classification"
+  "Day 1": "Introduction to Machine Learning",
+  "Day 2": "Supervised Learning: Regression",
+  "Day 3": "Supervised Learning: Classification",
+  "Day 4": "Unsupervised Learning: Clustering",
+  "Day 5": "Unsupervised Learning: Dimensionality Reduction",
+  "Day 6": "Reinforcement Learning",
+  "Day 7": "Machine Learning Project: Predicting House Prices"
 }
 ```

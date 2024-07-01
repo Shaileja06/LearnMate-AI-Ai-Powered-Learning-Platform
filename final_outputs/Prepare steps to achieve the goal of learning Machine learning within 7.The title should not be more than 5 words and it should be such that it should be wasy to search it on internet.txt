@@ -1,0 +1,7 @@
+Introduction to Machine Learning
+Supervised Learning: Regression
+Supervised Learning: Classification
+Unsupervised Learning: Clustering
+Unsupervised Learning: Dimensionality Reduction
+Reinforcement Learning
+Machine Learning Project: Predicting House Prices

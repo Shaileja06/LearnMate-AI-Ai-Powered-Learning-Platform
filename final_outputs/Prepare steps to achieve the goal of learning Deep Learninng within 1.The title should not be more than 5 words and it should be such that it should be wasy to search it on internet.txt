@@ -1,0 +1,21 @@
+Introduction to Deep Learning
+Neural Networks: Foundations
+Types of Neural Networks
+Supervised Learning with Deep Learning
+Unsupervised Learning with Deep Learning
+Reinforcement Learning with Deep Learning
+Deep Learning Applications
+Building a Simple Deep Learning Model
+Deep Learning Frameworks: TensorFlow
+Deep Learning Frameworks: PyTorch
+Deep Learning Libraries: Keras
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Long Short-Term Memory (LSTM)
+Generative Adversarial Networks (GANs)
+Autoencoders
+Deep Learning for Computer Vision
+Deep Learning for Natural Language Processing
+Deep Learning for Time Series Analysis
+Deep Learning Ethics and Challenges
+Project: Building a Deep Learning Model

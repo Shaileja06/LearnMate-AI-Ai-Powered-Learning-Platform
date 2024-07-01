@@ -1,0 +1,6 @@
+Introduction to Machine Learning
+Linear Regression with Python
+Logistic Regression and Classification
+Decision Trees and Ensemble Methods
+Support Vector Machines
+Project: Building a Simple Machine Learning Model

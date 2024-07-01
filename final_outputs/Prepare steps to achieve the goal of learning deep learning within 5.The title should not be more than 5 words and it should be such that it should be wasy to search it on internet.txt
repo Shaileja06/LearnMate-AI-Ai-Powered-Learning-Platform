@@ -1,5 +1,5 @@
 Introduction to Deep Learning
-Neural Networks: Foundations
-Feedforward Neural Networks
-Backpropagation and Gradient Descent
-Simple Deep Learning Project: Image Classification
+Neural Networks: Building Blocks
+Supervised Learning: Regression
+Supervised Learning: Classification
+Project: Image Classification

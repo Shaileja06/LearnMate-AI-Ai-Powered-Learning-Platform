@@ -1,6 +1,8 @@
 Title,blog_url
-Introduction to Deep Learning,https://www.dataquest.io/blog/tutorial-introduction-to-deep-learning/
-Neural Networks: Foundations,https://blog.synapticlabs.ai/the-fascinating-world-of-neural-networks-unraveling-how-machines-learn
-Deep Learning Architectures,https://medium.com/@koyelac/a-general-roadmap-to-crafting-deep-learning-architecture-c6ab1f88c343
-Training Deep Learning Models,https://epochai.org/blog/estimating-training-compute
-Deep Learning Project: Image Classification,https://github.com/On-Power-Studio/Image-classification-with-Deep-Learning-using-CNN-
+Introduction to Machine Learning,https://www.analyticsvidhya.com/blog/2021/02/introduction-to-machine-learning-for-absolute-beginners/
+Supervised Learning: Regression,https://medium.com/the-quant-journey/supervised-machine-learning-regression-and-classification-decision-trees-2a8544b15a7b
+Supervised Learning: Classification,https://blog.dennisokeeffe.com/blog/2021-08-14-first-look-at-supervised-learning-with-classification
+Unsupervised Learning: Clustering,https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
+Unsupervised Learning: Dimensionality Reduction,https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757
+Reinforcement Learning,https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2
+Machine Learning Project: Predicting House Prices,https://github.com/sakethyalamanchili/House-Price-Prediction

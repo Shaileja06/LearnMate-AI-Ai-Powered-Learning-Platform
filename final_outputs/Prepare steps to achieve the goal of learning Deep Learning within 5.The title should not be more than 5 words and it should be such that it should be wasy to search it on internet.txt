@@ -1,5 +1,5 @@
 Introduction to Deep Learning
-Neural Networks: Foundations
-Building a Simple Neural Network
-Convolutional Neural Networks
+Neural Networks: Building Blocks
+Training Neural Networks
+Convolutional Neural Networks for Images
 Project: Image Classification
