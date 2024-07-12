@@ -60,8 +60,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This is the env file sample 
 
-GOOGLE_API_KEY = ""
-GROQ_API_KEY = ""
-SERPER_API_KEY = ""
-TAVILY_API_KEY = ""
-YOUTUBE_API_KEY = ""
+1. GOOGLE_API_KEY = ""
+2. GROQ_API_KEY = ""
+3. SERPER_API_KEY = ""
+4. TAVILY_API_KEY = ""
+5. YOUTUBE_API_KEY = ""
